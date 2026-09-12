@@ -1,16 +1,13 @@
-## Hi there 👋
+# Sirpion
 
-<!--
-**sirpion-agency/sirpion-agency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital artisans for the intelligent age.
 
-Here are some ideas to get you started:
+Sirpion is a small studio of digital artisans crafting websites, custom SaaS platforms, and intelligent AI systems with precision and taste. The name comes from the Tamil சிற்பி (Sirpi): sculptor, artisan, architect.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The same small team that studies a brief designs and ships it, no account layer, no junior handoff.
+
+**Services:** Web Design, Web Development, Custom SaaS, AI Solutions
+
+**Site:** https://www.sirpion.com
+**Record:** https://www.sirpion.com/record
+**Contact:** studio@sirpion.com
